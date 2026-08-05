@@ -10,9 +10,15 @@ This repository contains the code and supporting materials for the final project
 
 ## Files
 
-This repository contains:
-- Jupyter notebooks for spoiler type classification and spoiler generation experiments.
-- CSV files containing processed data and model prediction results.
+This repository contains multiple Jupyter notebooks and CSV files used for the experiments.
+
+- **Jupyter notebooks** — Contain the implementations for spoiler type classification and spoiler generation.
+  - Task 1 notebooks: Notebooks for Task 1 experiments. The notebook containing `final_model` in its filename corresponds to the final submission.
+  - Task 2 notebooks: Notebooks for Task 2 experiments. The notebook containing `final_model` in its filename corresponds to the final submission.
+
+- **CSV files** — Contain processed data and model prediction results.
+  - `prediction_task1`: Prediction results for Task 1. The file containing `best_score` in its filename corresponds to the final submission.
+  - `prediction_task2`: Prediction results for Task 2. The file containing `best_score` in its filename corresponds to the final submission.
 
 Each notebook includes the corresponding preprocessing, model training, and evaluation pipeline.
 
