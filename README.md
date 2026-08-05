@@ -17,8 +17,8 @@ This repository contains multiple Jupyter notebooks and CSV files used for the e
   - Task 2 notebooks: Notebooks for Task 2 experiments. The notebook containing `final_model` in its filename corresponds to the final submission.
 
 - **CSV files** — Contain processed data and model prediction results.
-  - `prediction_task1`: Prediction results for Task 1. The file containing `best_score` in its filename corresponds to the final submission.
-  - `prediction_task2`: Prediction results for Task 2. The file containing `best_score` in its filename corresponds to the final submission.
+  - CSV files with `prediction_task1` in the filename: Prediction results for Task 1. The file containing `best_score` in its filename corresponds to the final submission.
+  - CSV files with `prediction_task2` in the filename: Prediction results for Task 2. The file containing `best_score` in its filename corresponds to the final submission.
 
 Each notebook includes the corresponding preprocessing, model training, and evaluation pipeline.
 
