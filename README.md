@@ -1,6 +1,7 @@
 # git-and-github-final-project-Zelenenene
 
 Final Project for MSE641
+
 This repository contains the code and supporting materials for the final project of **MSE641**, which investigates spoiler type classification and spoiler generation for the Clickbait Challenge 2023.
 
 ## Project Overview
